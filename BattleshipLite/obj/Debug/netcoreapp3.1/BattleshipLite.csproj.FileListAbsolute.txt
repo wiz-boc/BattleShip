@@ -1,0 +1,17 @@
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.exe
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.deps.json
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.runtimeconfig.json
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.runtimeconfig.dev.json
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.dll
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLite.pdb
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.csproj.AssemblyReference.cache
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.AssemblyInfoInputs.cache
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.AssemblyInfo.cs
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.csproj.CoreCompileInputs.cache
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.dll
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.pdb
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.genruntimeconfig.cache
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLiteLibrary.dll
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\bin\Debug\netcoreapp3.1\BattleshipLiteLibrary.pdb
+C:\Users\kenroyg\source\repos\BattleshipLiteApp\BattleshipLite\obj\Debug\netcoreapp3.1\BattleshipLite.csproj.CopyComplete
